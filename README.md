@@ -1,4 +1,4 @@
-# Barbie Swan Lake Dress-Up**
+# Barbie Swan Lake Dress-Up
 
 Duration: Jul 2021 - Aug 2021  
 Affiliation: Google's Computer Science Summer Institute
